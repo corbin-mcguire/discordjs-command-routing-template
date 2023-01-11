@@ -1,5 +1,5 @@
 {
-  "name": "band-of-brawlers-bot",
+  "name": "discordjs-command-routing-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/corbin-mcguire/band-of-brawlers-bot.git"
+    "url": "git+https://github.com/corbin-mcguire/discordjs-command-routing-template.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/corbin-mcguire/band-of-brawlers-bot/issues"
+    "url": "https://github.com/corbin-mcguire/discordjs-command-routing-template/issues"
   },
-  "homepage": "https://github.com/corbin-mcguire/band-of-brawlers-bot#readme",
+  "homepage": "https://github.com/corbin-mcguire/discordjs-command-routing-template#readme",
   "dependencies": {
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3"
