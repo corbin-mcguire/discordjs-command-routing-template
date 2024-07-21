@@ -20,6 +20,6 @@
   "homepage": "https://github.com/corbin-mcguire/discordjs-command-routing-template#readme",
   "dependencies": {
     "discord.js": "^14.7.1",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.4.5"
   }
 }
