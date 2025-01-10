@@ -1,7 +1,7 @@
-import { commands } from "./commands/commands.js";
+import { commandManager } from "./commands/CommandManager";
 
 export const handleInteractionCreate = (interaction) => {
   if (!interaction.isCommand()) return;
 
-  commands[interaction.commandName].handle(interaction);
+  commandManager.getCommand(interaction.commandName).handle(interaction);
 };
